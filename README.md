@@ -9,7 +9,7 @@ py -m venv directory
 
 Navigate to the venv directory in git bash, then clone this repository:
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/mfizari/MountainProject-Web-Scraper
 ```
 
 Install scrapy in your venv:
