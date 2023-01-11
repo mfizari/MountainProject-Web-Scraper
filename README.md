@@ -2,9 +2,9 @@
 This repository contains code that can be used with Scrapy, the web-scraping python framework, to scrape information on routes and users on Mountainproject.com <br/>
 
 ### Installation
-First, it is strongly recommended to operate Scrapy scripts in a virtual environment. In Windows:
+First, it is strongly recommended to operate Scrapy in a virtual environment. In Windows use:
 ```
-py -m pip intall --user virtualenv
+py -m venv directory
 ```
 
 Navigate to the venv directory in git bash, then clone this repository:
